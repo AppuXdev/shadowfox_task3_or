@@ -1,0 +1,1 @@
+This folder contains the Jupyter Notebook for the final project, where a complete data analysis was performed on the Netflix dataset. The notebook includes data exploration, cleaning, research question formulation, and visual insights into content trends, genres, ratings, and global distribution.
