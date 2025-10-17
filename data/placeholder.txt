@@ -1,0 +1,1 @@
+This folder contains Excel files used for initial inspection, manual summaries, and exploratory analysis of the Netflix dataset. It may include filtered views, pivot tables, or custom breakdowns of content types, genres, and ratings.
