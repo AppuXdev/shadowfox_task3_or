@@ -1,0 +1,1 @@
+This folder contains visual outputs generated during the Netflix data analysis, including genre distributions, rating trends, country-wise content breakdowns, and other charts used to support key insights.
